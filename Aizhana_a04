@@ -1,8 +1,0 @@
-Suppose that you have an application whose behavior depends on the environment variable BAR. Which of the following command lines may be used in a bash shell to configure the application?
-
-A. export $BAR=baz; echo $BAR
-B. set BAR=baz
-C. BAR=baz ; export BAR
-D. echo $BAR=baz
-E. declare -x BAR=baz
-F. echo BAR=baz

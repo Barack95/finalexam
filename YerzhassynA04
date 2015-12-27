@@ -1,6 +1,0 @@
-Which of the following commands can be used to assure that a file 'myfile' exists?
-
-A. cp myfile /dev/null
-B. touch myfile
-C. create myfile
-D. mkfile myfile

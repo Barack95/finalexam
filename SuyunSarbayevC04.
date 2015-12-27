@@ -1,9 +1,0 @@
-What is fork process ?
-
-a) operation whereby a process creates a copy of itself.
-
-b) shows all of the processes associated with the current user and terminal session.
-
-c) send the TERM to the process, which tells the process to please terminate.
-
-d) run a program with a certain nice value.

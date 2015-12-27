@@ -1,7 +1,0 @@
-How to see what directory are you?
-
- . -ls
- . -pwd
- . -cd
- . -mkdir
- 
